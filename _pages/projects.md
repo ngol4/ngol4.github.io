@@ -45,7 +45,7 @@ This is a web application with three-tier architectures (client, server, databas
 This is the project for the course Databases project at Aalto University. In this project, I collaborate in a team with 3 other students to develop the Vaccination Management System database t
 o keep records of vaccination information, patient, and doctor data from raw data using Python and SQL.
 
-<img src="../images/projects/VaccinationDatabases.png" alt="graph" width="800s"/>
+<img src="../images/projects/VaccinationDatabase.png" alt="graph" width="800s"/>
 Firgure: UML model of Vaccination Database
 
 [Github](https://github.com/ngol4/Vaccination-Database/tree/master)
