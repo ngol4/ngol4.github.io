@@ -7,7 +7,7 @@ toc: true
 {% include toc %}
 
 ## Kanban Board App 
- *Scala | Unified Modeling Language | Unit Testing | JSON | ScalaFx | Git*
+ *Scala - Unified Modeling Language - Unit Testing - JSON - ScalaFx -s Git*
 
 This is a Kanban-inspired app that allows users create and use boards for task management.  
 
@@ -40,13 +40,12 @@ This is a web application with three-tier architectures (client, server, databas
 
 
 ## Vaccination Database Design
- *SQL | Unified Modeling Language | Data Normalization | Python | Relational Database*
+ *SQL - Python -  Unified Modeling Language - Data Normalization - Relational Database*
 
-This is the project for the course Databases project at Aalto University. In this project, I collaborate in a team with 3 other students to develop the Vaccination Management System database t
-o keep records of vaccination information, patient, and doctor data from raw data using Python and SQL.
+This is the project for the course Databases project at Aalto University. In this project, I collaborate in a team with 3 other students to develop the Vaccination Management System database to keep records of vaccination information, patient, and doctor data from raw data using Python and SQL.
 
 <img src="../images/projects/VaccinationDatabase.png" alt="graph" width="800s"/>
-Firgure: UML model of Vaccination Database
+
 
 [Github](https://github.com/ngol4/Vaccination-Database/tree/master)
 
