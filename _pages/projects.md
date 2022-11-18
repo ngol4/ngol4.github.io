@@ -11,30 +11,38 @@ toc: true
 
 This is a Kanban-inspired app that allows users create and use boards for task management.  
 
-<img src="../images/Kanban/Kanban-UI.png" alt="graph" width="700s"/>
+<img src="../images/projects/Kanban-UI.png" alt="graph" width="600s"/>
 
-[Github](https://github.com/ngol4/KanbanBoard)         
-
-
-## Quiz App Websites
- *JavaScript | HTML | CSS | Deno | Oak | Heroku | PostgreSQL*
-
-This is a web application with three-tier architectures (client, server, database) for creating and answering multiple-choice questions, accompanied by an API for retrieving and answering random questions.
-
-[Github](https://github.com/linhlngo/Quiz-app)          [Website](https://wsdquestion.herokuapp.com/)
-
+[Github](https://github.com/ngol4/KanbanBoard)    
 
 ## Climate Change Communication Website
  *Python — Data Exploration — Data Cleaning — Data Visualization and Modeling — Dash — Heroku*
 
 This is the ongoing project for the course Data Science project at Aalto University. In this project, I collaborate in a team with 4 other students to build the interactive website to communicate to Nordic audiences on green-house gas reduction efforts.
 
+This figure below is the interactive graph that I made to demonstrate the correlation between GDP per capita and CO2 capita by country and by region accross the world.
+
+<img src="../images/projects/Climate-change.png" alt="graph" width="600s"/>
+
+
 [Website](https://team2ghgemissions.herokuapp.com/)
+
+
+## Quiz App Websites
+ *JavaScript - HTML - CSS - Deno - Oak - Heroku - PostgreSQL*
+
+This is a web application with three-tier architectures (client, server, database) for creating and answering multiple-choice questions, accompanied by an API for retrieving and answering random questions.
+<img src="../images/projects/Quiz-app.png" alt="graph" width="600s"/>
+
+[Github](https://github.com/linhlngo/Quiz-app)          [Website](https://wsdquestion.herokuapp.com/)
+
+
 
 ## Vaccination Database Design
  *SQL | Unified Modeling Language | Data Normalization | Python | Relational Database*
 
 This is the project for the course Databases project at Aalto University. In this project, I collaborate in a team with 3 other students to develop the Vaccination Management System database to keep records of vaccination information, patient, and doctor data from raw data using Python and SQL.
+<img src="../images/projects/VaccinationDatabases.png" alt="graph" width="600s"/>
 
 [Github](https://github.com/ngol4/Vaccination-Database/tree/master)
 
