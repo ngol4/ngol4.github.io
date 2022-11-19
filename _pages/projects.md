@@ -9,7 +9,7 @@ toc: true
 ## Kanban Board App 
  *Scala - Unified Modeling Language - Unit Testing - JSON - ScalaFx - Git*
 
- I have always felt motivated to get my work done. I discovered that Kanban Board as a great idea for easily manipulated real-time adjustments to kee track of task status, workloads, and other pertinent task information.  Therefore, I decided to build a Kanban-inspired app in Scala that allows users create and use boards for task management.  
+ I have always felt motivated to get my work done. I discovered that Kanban Board as a great idea for easily manipulated real-time adjustments to keep track of task status, workloads, and other pertinent task information.  Therefore, I decided to apply my programming skill to build a Kanban-inspired app in Scala that allows users create and use boards for task management.
 
 <img src="../images/projects/Kanban-UI.png" alt="graph" width="800s"/>
 
