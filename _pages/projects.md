@@ -7,9 +7,9 @@ toc: true
 {% include toc %}
 
 ## Kanban Board App 
- *Scala - Unified Modeling Language - Unit Testing - JSON - ScalaFx -s Git*
+ *Scala - Unified Modeling Language - Unit Testing - JSON - ScalaFx - Git*
 
-This is a Kanban-inspired app that allows users create and use boards for task management.  
+ I have always felt motivated to get my work done. I discovered that Kanban Board as a great idea for easily manipulated real-time adjustments to kee track of task status, workloads, and other pertinent task information.  Therefore, I decided to build a Kanban-inspired app in Scala that allows users create and use boards for task management.  
 
 <img src="../images/projects/Kanban-UI.png" alt="graph" width="800s"/>
 
@@ -18,7 +18,9 @@ This is a Kanban-inspired app that allows users create and use boards for task m
 ## Climate Change Communication Website
  *Python — Data Exploration — Data Cleaning — Data Visualization and Modeling — Dash — Heroku*
 
-This is the ongoing project for the course Data Science project at Aalto University. In this project, I collaborate in a team with 4 other students to build the interactive website to communicate to Nordic audiences on green-house gas reduction efforts.
+ Climate change is one of the most significant challenge that humanity is currenly facing. Economic and population growth comes with more emissions. The emissions are distributed globally and over a wide range of societal activities, and are likely to cause widespread social, economic, and ecosystem damage if not limited. Therefore, it is important that all countries in the world try to tackle these global issues together. This website is created to communicate the emission reduction momentum to more audiences.
+ 
+As the part of the course Data Science Project at Aalto University, I collaborate in a team of 5 students to build the interactive website to communicate to Nordic audiences on green-house gas reduction efforts.
 
 This figure below is the interactive graph that I made to demonstrate the correlation between GDP per capita and CO2 capita by country and by region accross the world.
 
@@ -84,9 +86,7 @@ dynamic treatment regimes estimation. For each approach, background knowledge, t
 objective, the overview of data sources, machine learning methods, evaluation methods,
 and applications in recent years are introduced.
 
-This thesis concludes that both approaches show great potential in providing personalized treatment recommendations and transforming healthcare. However, there are still
-some limitations that need to be addressed to make more interpretable and trustful decisions. One suggestion would be to take advantage of the capabilities of both approaches
-and incorporate causal model into the learning process of reinforcement learning.
+This thesis concludes that both approaches show great potential in providing personalized treatment recommendations and transforming healthcare. However, there are still some limitations that need to be addressed to make more interpretable and trustful decisions. One suggestion would be to take advantage of the capabilities of both approaches and incorporate causal model into the learning process of reinforcement learning.
 
 [Google Drive](https://drive.google.com/file/d/1PR71OHlwtLDPFWh3UiocvFZpDraEXcfx/view)
 
