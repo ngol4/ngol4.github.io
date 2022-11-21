@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my personal website! Feel free to explore the site to get to know me and my experiences.
 
-A 19-year-old student at Aalto University with a strong interest in Data Science and Software Development. 
+A 19-year-old driven student at Aalto University with a strong interest in Data Science and Software Development. 
 
 As a student, I enjoy learning new things and taking on different challenges to be better every day. Currently pursuing a Bachelor's degree in Data Science, I got a chance to satisfy my intellectual curiosity by encountering novel concepts ranging from more technology-focused such as programming, databases, and artificial intelligence to more business-focused such as economics every day. Throughout my study, I have always maintained an excellent performance, hence leading to my work as a teaching assistant for 5 computer science courses at my university. I truly love this experience as it has certainly sharpened my knowledge and developed my communication, interpersonal, and empathy skills.
 
