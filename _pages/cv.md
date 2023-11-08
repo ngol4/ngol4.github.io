@@ -11,11 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Data Science, Aalto University, 2020-2023
-* Exchange study at University of Sydney (Feb - June 2023)
+* Master's in Computer Science, Aalto University, Sep 2023-July2025
+* Bachelor in Data Science, Aalto University, Sep 2020- July 2023
+* Exchange study at University of Sydney, Feb - June 2023
 
 Work experience
 ======
+* Information Systems Architect Trainee - ABB (June-Sep 2023)
+  * Conducted mapping of applications to business capabilities for a specific division, initiating the process by meticulously creating an 
+    initial mapping in Microsoft Excel to capture essential data. This data was later transformed into visual representations in Ardoq for 
+     enhanced clarity and strategic planning
+  * Engaged actively in enhancing Master Data Governance by meticulously documenting the Ardoq platform, offering in-depth insights into 
+     its functionalities, configurations, and best practices for optimal utilization within the organization
 * Teaching Assistant at Department of Computer Science - Aalto University (Feb 2022 - Present)
   * Courses: Data Structures and Algorithms, Databases, Machine Learning, Programming 2
   
