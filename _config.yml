@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Linh Ngo"
 title_separator          : "-"
 name                     : &name "Linh Ngo"
-description              : &description "MS Computer Science at Aalto University"
+description              : &description "MS Computer Science and Data Science at Aalto University"
 url                      : https://ngol4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ngol4/ngol4.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Linh Ngo"
-  avatar           : "Profiles.JPG"
+  avatar           : "profiles.jpeg"
   bio              : "Data Science student at Aalto University"
   location         : "Helsinki Metropolian Area"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "linh.l.ngo@aalto.fi"
+  email            : "linh.thngo@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
