@@ -7,11 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello and thank you for stopping by!
+# Hello! I’m Linh 👋
 
-As a student, I enjoy learning new things and taking on different challenges to be better every day. Currently pursuing a Master's degree in Computer Science at Aalto University, I got a chance to satisfy my intellectual curiosity by encountering novel concepts ranging from more technology-focused such as programming, databases, and artificial intelligence to more business-focused such as economics every day. Throughout my study, I have always maintained an excellent performance, hence leading to my work as a teaching assistant for 5 computer science courses at my university. I truly love this experience as it has certainly sharpened my knowledge and developed my communication, interpersonal, and empathy skills.
+I enjoy working on complex data problems, building reliable systems, and turning messy data into something useful for decision-making. I’m drawn to environments where people care about quality, learning, and solving real-world problems with data.
+
+I’m a recent Master’s graduate in Computer Science (Big Data and Large-Scale Computing) from [Aalto University](https://www.aalto.fi). During my studies, I worked as a Developer Trainee at [OP Financial Group](https://www.op.fi), focusing on data platforms, cloud analytics, and reporting — building and migrating data pipelines, automating workflows, and developing dashboards that support engineering, cloud, and FinOps decision-making.
+
+Previously, I worked as an Information Systems Architect Trainee at [ABB](https://global.abb), where I contributed to enterprise architecture and IT landscape mapping, and as a Teaching Assistant at [Aalto University’s Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science), supporting several of the department’s core, large-enrollment courses such as Data Structures & Algorithms, Databases for Data Science, and Machine Learning.
+
+I’ve also worked as a Research Assistant at the [Digital Economic Security Lab](https://diesl.eu), where my Master’s thesis explored how data localization policies affect global cloud infrastructure and data center placement, combining large-scale datasets with econometric analysis.
+
+I completed my Bachelor’s degree in Data Science at [Aalto University](https://www.aalto.fi), including an exchange semester at the [University of Sydney](https://www.sydney.edu.au). My Bachelor’s thesis focused on machine learning for personalized treatment decision-making.
 
 
-In my future career, my heartfelt ambition is to harness the power of data and software, merging my skills and passion to create impactful solutions. I aspire to not only meet but surpass industry standards by innovatively leveraging data insights and cutting-edge software engineering. Beyond the technicalities, my genuine motivation lies in contributing to positive societal change through the transformative potential of data-driven applications. The prospect of crafting solutions that address real-world challenges excites me, and I am genuinely eager to immerse myself in the dynamic realms of data-related and software engineering. It's the fusion of technical expertise with a sincere commitment to social responsibility that propels me forward. 
+## 📬 Connect With Me
+You can find me on:
 
-With a distinct passion for technology and an insatiable eagerness to learn and collaborate, I am wholeheartedly open to exploring opportunities in data-related, software engineering, and research roles. My goal is to gain hands-on experience and cultivate crucial skills in these dynamic fields. If you share a similar enthusiasm for innovation and growth,  connect with me on LinkedIn or drop me a message at linh.l.ngo@aalto.fi. I would genuinely love to engage in a conversation about the exciting possibilities that lie ahead. Let's connect and explore the vast landscape of technology together!
+- **GitHub:** https://github.com/ngol4
+- **LinkedIn:** https://www.linkedin.com/in/linh-l-ngo/
+- **Email:** linh.thngo@gmail.com

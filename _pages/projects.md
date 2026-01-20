@@ -13,6 +13,10 @@ This project implements a real-time analytics platform for processing high-volum
 
 The platform uses a streaming architecture where tick data is ingested via Kafka, processed in real time with Apache Flink, and stored in InfluxDB as time-series data. Actionable insights and indicators are visualized through interactive Grafana dashboards.
 
+[Github](https://github.com/dogaturkseven/CS-E4780_course_project)
+[Report](https://drive.google.com/file/d/1t8lJcQ7urEXCEYKASDw7h0kEHz-4zVtE/view usp=sharing)
+
+
 
 
 ## Kanban Board App 
