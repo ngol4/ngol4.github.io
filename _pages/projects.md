@@ -6,6 +6,15 @@ toc: true
 ---
 {% include toc %}
 
+## Data Platform for Detecting Trading Trends in Financial Tick Data
+*Apache Flink – Apache Kafka – InfluxDB – Grafana – Python – Java – Docker*
+
+This project implements a real-time analytics platform for processing high-volume financial tick data. The system detects trading patterns and trend indicators with low latency, enabling insights to be generated in seconds instead of hours to support faster, data-driven decision-making.
+
+The platform uses a streaming architecture where tick data is ingested via Kafka, processed in real time with Apache Flink, and stored in InfluxDB as time-series data. Actionable insights and indicators are visualized through interactive Grafana dashboards.
+
+
+
 ## Kanban Board App 
  *Scala - Unified Modeling Language - Unit Testing - JSON - ScalaFx - Git*
 
