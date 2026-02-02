@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Projects"
+permalink: /projects/
+toc: true
+---
+{% include toc %}
 # 🚀 Projects Portfolio
 
 A curated collection of projects spanning **data engineering**, **analytics platforms**, **cloud architectures**, and **full-stack applications**.
