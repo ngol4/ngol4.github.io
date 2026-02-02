@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 permalink: /cv/
 author_profile: true
 redirect_from:
