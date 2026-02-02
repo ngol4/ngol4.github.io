@@ -1,13 +1,12 @@
 ---
 layout: single
-title: "Projects"
+title: "🚀 Projects Portfolio"
 permalink: /projects/
 toc: true
 toc_sticky: true
 classes: wide
 ---
 {% include toc %}
-# 🚀 Projects Portfolio
 
 A curated collection of projects spanning **data engineering**, **analytics platforms**, **cloud architectures**, and **full-stack applications**.
 
