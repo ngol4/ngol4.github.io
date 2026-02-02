@@ -7,29 +7,81 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Resume](/files/Resume_Linh_Ngo.pdf)   
+[Resume (PDF)](/files/Resume_Linh_Ngo.pdf)
 
 Education
 ======
-* Master's in Computer Science, Aalto University, Sep 2023-July2025
-* Bachelor in Data Science, Aalto University, Sep 2020- July 2023
-* Exchange study at University of Sydney, Feb - June 2023
 
-Work experience
+**MSc in Computer Science (Big Data and Large-Scale Computing)**  
+*Aalto University, Espoo, Finland*  
+Sep 2023 – Jan 2026  
+- Minor: Business Analytics  
+- Key coursework: Big Data Platforms, Machine Learning, Data Mining, Scalable Systems & Data Management, Cloud Software & Systems, Statistical Consulting, Software Construction & Design
+
+**BSc in Data Science**  
+*Aalto University, Espoo, Finland*  
+Sep 2020 – Jul 2023  
+- Graduated with Honors, GPA: 4.5/5  
+- Minor: Economics  
+- Bachelor’s Thesis: *Machine Learning for Personalized Treatment Decision-Making* (Grade: 5/5)
+
+**Exchange Student**  
+*University of Sydney, Australia*  
+Feb 2023 – Jun 2023  
+
+---
+
+Work Experience
 ======
-* Information Systems Architect Trainee - ABB (June-Sep 2023)
-  * Conducted mapping of applications to business capabilities for a specific division, initiating the process by meticulously creating an 
-    initial mapping in Microsoft Excel to capture essential data. This data was later transformed into visual representations in Ardoq for 
-     enhanced clarity and strategic planning
-  * Engaged actively in enhancing Master Data Governance by meticulously documenting the Ardoq platform, offering in-depth insights into 
-     its functionalities, configurations, and best practices for optimal utilization within the organization
-* Teaching Assistant at Department of Computer Science - Aalto University (Feb 2022 - Present)
-  * Courses: Data Structures and Algorithms, Databases, Machine Learning, Programming 2
-  
+
+**Developer Trainee, Cloud Analytics & DataOps / FinOps & Reporting**  
+*OP Financial Group, Helsinki, Finland*  
+Mar 2024 – Sep 2025  
+- Contributed to OP’s Engineering Data Platform, working across AWS and Azure Databricks environments  
+- Designed and maintained production-grade ETL/ELT pipelines using Python, SQL, and TypeScript  
+- Automated end-to-end data pipelines using AWS CDK (IaC), orchestrating Glue, Step Functions, Lambda, Athena, and S3  
+- Migrated a production data pipeline from AWS to Azure Databricks using a Medallion Architecture (Bronze–Silver–Gold)  
+- Built Power BI dashboards and automated alerts with Power Automate to monitor pipeline health and cloud cost metrics  
+- Strengthened CI/CD pipelines using Git, Bitbucket, AWS CodePipeline, and SonarQube in a regulated environment  
+
+**Research Assistant – Digital Economic Security Lab**  
+*Aalto University, Helsinki, Finland*  
+Jun 2025 – Dec 2025  
+- Analyzed global cloud infrastructure trends for the GEOCLOUD project  
+- Built and cleaned a large-scale dataset covering 195 countries by combining cloud data center locations with data localization policies  
+- Applied policy analysis and econometric methods to study the impact of regulation on cloud provider investment  
+
+**Information Systems Architect Trainee**  
+*ABB, Helsinki, Finland*  
+Jun 2023 – Sep 2023  
+- Supported enterprise architecture and IT strategy for ABB Drives  
+- Mapped applications to business capabilities and data flows using Excel and Ardoq  
+- Established standardized modeling practices and used graph queries to analyze system dependencies  
+- Delivered architecture insights to support portfolio optimization and modernization decisions  
+
+**Teaching Assistant**  
+*Department of Computer Science, Aalto University*  
+Mar 2022 – Dec 2023  
+- Courses: Data Structures & Algorithms, Databases for Data Science, Machine Learning, Programming 2  
+- Led labs and tutorials in Python, Scala, and PostgreSQL for large student cohorts  
+- Supported grading, course coordination, and student mentoring  
+
+---
 
 Skills
 ======
-* **Software Tools**: Git, Scala, Python, SQL, R JavaScript, HTML, CSS, C++
-* **Data Science**: Machine Learning, Statistical and Causal Inference, Reinforcement Learning, Data Preprocessing, Data Analysis, Data Visualization, Deep Learning, Natural Language Processing
-* **Soft Skills**: Teamwork, Communication, Presentation, Problem-Solving, Self-Learning, Teaching
 
+**Programming & Query Languages**  
+Python, SQL, TypeScript, Java, Scala, JavaScript, R, C++
+
+**Cloud & Data Platforms**  
+AWS, Azure Databricks, Apache Spark, Apache Flink, Apache Kafka, Delta Lake
+
+**Data & AI**  
+Machine Learning, Statistical and Causal Inference, Data Engineering, Data Visualization, NLP, Generative AI tools (GitHub Copilot, ChatGPT)
+
+**DevOps & Tooling**  
+Git, Bitbucket, Docker, CI/CD pipelines, AWS CDK, Power BI, Power Automate, Jira, Confluence
+
+**Soft Skills**  
+Analytical thinking, problem-solving, clear communication, teamwork, self-directed learning, teaching
