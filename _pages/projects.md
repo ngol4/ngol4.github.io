@@ -17,6 +17,29 @@ The platform uses a streaming architecture where tick data is ingested via Kafka
 [Report](https://drive.google.com/file/d/1t8lJcQ7urEXCEYKASDw7h0kEHz-4zVtE/view usp=sharing)
 
 
+## Parcel Delivery Quality Data Pipeline
+*Azure Databricks – Delta Lake – Delta CDF – Python – Apache Spark – Medallion Architecture*
+
+This project focuses on building a scalable data pipeline for analyzing parcel delivery quality metrics. The pipeline supports incremental processing of large datasets and enables reliable KPI reporting for operational monitoring.
+
+The solution was implemented on Azure Databricks using Delta Lake and a Medallion Architecture (Bronze–Silver–Gold). Delta Change Data Feed (CDF) was used to efficiently process updates, with checkpointing and optimized Gold-layer tables to ensure performance and data consistency.
+
+[GitHub](https://github.com/ngol4/Parcel-quality-pipeline-cdc)
+
+
+## Serverless AWS Data Pipeline Architecture
+*AWS CDK – AWS Lambda – AWS Glue – Step Functions – Amazon S3 – Amazon Athena – Python – SQL*
+
+This project implements a fully serverless data pipeline on AWS for ingesting, transforming, and analyzing engineering and operational data at scale. The architecture is designed for reliability, cost efficiency, and minimal operational overhead.
+
+The pipeline is provisioned using Infrastructure as Code with AWS CDK. Data is ingested into Amazon S3 and processed using AWS Glue jobs orchestrated by AWS Step Functions. AWS Lambda functions handle validation, metadata management, and event-driven control flow. Processed data is queried using Amazon Athena to support analytics and reporting use cases.
+
+The serverless design enables automatic scaling, fault tolerance, and pay-per-use cost optimization, while minimizing infrastructure management. The solution is production-oriented and extensible, making it suitable for evolving analytics and reporting requirements.
+
+
+[GitHub Repository](https://github.com/ngol4/your-repo-name)
+
+
 
 
 ## Kanban Board App 
