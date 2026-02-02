@@ -3,6 +3,8 @@ layout: single
 title: "Projects"
 permalink: /projects/
 toc: true
+toc_sticky: true
+classes: wide
 ---
 {% include toc %}
 # 🚀 Projects Portfolio
@@ -61,8 +63,7 @@ Fully serverless analytics pipeline with **automatic scaling**, **fault toleranc
 - Analytics and reporting using **Amazon Athena** over S3 data lakes.
 
 🖼️ **Architecture**
-![Serverless AWS architecture](images/projects/awsarchitecture.png)
-
+![Serverless AWS architecture](../images/projects/awsarchitecture.png)
 🔗 **Links:**  
 [GitHub](https://github.com/ngol4/serverless-aws)
 
@@ -101,7 +102,7 @@ Interactive data product communicating greenhouse gas emission trends to Nordic 
 - Collaboration in a **5-person team** as part of a university data science project.
 
 🖼️ **Visualization**
-![Climate change visualization](images/projects/Climate-change.png)
+![Climate change visualization](../images/projects/Climate-change.png)
 
 🔗 **Links:**  
 [Live Website](https://team2ghgemissions.herokuapp.com/)
@@ -121,7 +122,7 @@ Three-tier web application for creating and answering multiple-choice quizzes vi
 - Deployed full stack on **Heroku**.
 
 🖼️ **Application UI**
-![Quiz App UI](images/projects/Quiz-app.png)
+![Quiz App UI](../images/projects/Quiz-app.png)
 
 🔗 **Links:**  
 [GitHub](https://github.com/linhlngo/Quiz-app) ·  
@@ -142,7 +143,7 @@ Normalized relational database system for managing vaccination, patient, and doc
 - Team collaboration (4 members) for database design and implementation.
 
 🖼️ **Database Design**
-![Vaccination database diagram](images/projects/VaccinationDatabase.png)
+![Vaccination database diagram](../images/projects/VaccinationDatabase.png)
 
 🔗 **Links:**  
 [GitHub](https://github.com/ngol4/Vaccination-Database/tree/master)
