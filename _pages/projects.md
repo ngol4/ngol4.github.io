@@ -28,6 +28,7 @@ The solution was implemented on Azure Databricks using Delta Lake and a Medallio
 
 
 ## Serverless AWS Data Pipeline Architecture
+
 *AWS CDK – AWS Lambda – AWS Glue – Step Functions – Amazon S3 – Amazon Athena – Python – SQL*
 
 This project implements a fully serverless data pipeline on AWS for ingesting, transforming, and analyzing engineering and operational data at scale. The architecture is designed for reliability, cost efficiency, and minimal operational overhead.
@@ -36,8 +37,9 @@ The pipeline is provisioned using Infrastructure as Code with AWS CDK. Data is i
 
 The serverless design enables automatic scaling, fault tolerance, and pay-per-use cost optimization, while minimizing infrastructure management. The solution is production-oriented and extensible, making it suitable for evolving analytics and reporting requirements.
 
+<img src="../images/projects/awsarchitecture.png" alt="graph" width="800s"/>
 
-[GitHub Repository](https://github.com/ngol4/your-repo-name)
+[GitHub Repository](https://github.com/ngol4/serverless-aws)
 
 
 
