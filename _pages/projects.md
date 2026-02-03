@@ -81,7 +81,7 @@ Desktop task-management application inspired by Kanban principles for visual wor
 - Emphasis on usability and real-time task updates.
 
 🖼️ **UI Preview**
-![Kanban UI](images/projects/Kanban-UI.png)
+![Kanban UI](../images/projects/Kanban-UI.png)
 
 🔗 **Links:**  
 [GitHub](https://github.com/ngol4/KanbanBoard)
