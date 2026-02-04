@@ -26,6 +26,9 @@ Real-time analytics on high-volume financial tick data, generating trend indicat
 - Time-series persistence in **InfluxDB** for fast queries and retention control.
 - Interactive **Grafana dashboards** for monitoring trends and indicators.
 
+![](../images/projects/architecturetrading.png)
+
+
 🔗 **Links:**  
 [GitHub](https://github.com/dogaturkseven/CS-E4780_course_project) ·  
 [Technical Report](/files/FinancialDataPlatformReport.pdf)
