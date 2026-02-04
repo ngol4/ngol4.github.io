@@ -30,22 +30,6 @@ Real-time analytics on high-volume financial tick data, generating trend indicat
 [GitHub](https://github.com/dogaturkseven/CS-E4780_course_project) ·  
 [Technical Report](/files/FinancialDataPlatformReport.pdf)
 
----
-
-## 📦 Parcel Delivery Quality Data Pipeline
-**Azure Databricks · Delta Lake · Delta CDF · Apache Spark · Python · Medallion Architecture**
-
-**Impact:**  
-Scalable, incremental analytics pipeline enabling reliable KPI reporting for parcel delivery quality monitoring.
-
-**What I built**
-- End-to-end data pipeline using **Bronze–Silver–Gold** architecture.
-- Incremental data processing with **Delta Change Data Feed (CDF)**.
-- Optimized Gold-layer tables for performance and analytical workloads.
-- Checkpointing and fault-tolerant Spark jobs on **Azure Databricks**.
-
-🔗 **Links:**  
-[GitHub](https://github.com/ngol4/Parcel-quality-pipeline-cdc)
 
 ---
 
@@ -67,6 +51,23 @@ Fully serverless analytics pipeline with **automatic scaling**, **fault toleranc
 [GitHub](https://github.com/ngol4/serverless-aws)
 
 ---
+## 📦 Parcel Delivery Quality Data Pipeline
+**Azure Databricks · Delta Lake · Delta CDF · Apache Spark · Python · Medallion Architecture**
+
+**Impact:**  
+Scalable, incremental analytics pipeline enabling reliable KPI reporting for parcel delivery quality monitoring.
+
+**What I built**
+- End-to-end data pipeline using **Bronze–Silver–Gold** architecture.
+- Incremental data processing with **Delta Change Data Feed (CDF)**.
+- Optimized Gold-layer tables for performance and analytical workloads.
+- Checkpointing and fault-tolerant Spark jobs on **Azure Databricks**.
+
+🔗 **Links:**  
+[GitHub](https://github.com/ngol4/Parcel-quality-pipeline-cdc)
+
+
+---
 
 ## 🗂️ Kanban Board Application
 **Scala · ScalaFX · UML · Unit Testing · JSON · Git**
@@ -82,6 +83,11 @@ Desktop task-management application inspired by Kanban principles for visual wor
 
 🖼️ **UI Preview**
 ![Kanban UI](../images/projects/Kanban-UI.png)
+
+🖼️ **UML Design**
+![UML Design](../images/projects/UML.jpg)
+
+
 
 🔗 **Links:**  
 [GitHub](https://github.com/ngol4/KanbanBoard)
